@@ -10,12 +10,13 @@ How to use:
 
 Install pygame:
 
-Bashpip install pygame
+pip install pygame
 
 Save the script as license_plate_display.py
 Run it:
 
-Bashpython license_plate_display.py
+python license_plate_display.py
+
 Features:
 
 Full screen display
